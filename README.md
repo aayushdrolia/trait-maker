@@ -40,7 +40,7 @@ php artisan make:trait SampleTrait TraitsFolder
 ```
 
 This would create a directory named TraitsFolder in your app directory with a php file
-named SampleTrait.php, which would only contain the following stub:
+named SampleTrait.php, which would contain the following stub:
    
 ```
 <?php
