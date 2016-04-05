@@ -13,7 +13,7 @@ exists, you can use the command to place new traits in the exsiting folder.
 Via Composer
 
 ```
-composer require Evercode1/TraitMaker
+composer require Evercode1/trait-maker
 ```
 
 In your app/config/app.php file, add the following to the providers array:
