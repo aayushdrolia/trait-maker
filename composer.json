@@ -3,10 +3,10 @@
     "type": "library",
     "description": "Artisan Command To Create A Trait Stub",
     "keywords": [
-        ":Evercode1",
-        ":TraitMaker"
+        "Evercode1",
+        "TraitMaker"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/evercode1/MakeTrait",
     "license": "MIT",
     "authors": [
         {
