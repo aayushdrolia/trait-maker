@@ -1,5 +1,5 @@
 {
-    "name": "Evercode1/TraitMaker",
+    "name": "evercode1/trait-maker",
     "type": "library",
     "description": "Artisan Command To Create A Trait Stub",
     "keywords": [
