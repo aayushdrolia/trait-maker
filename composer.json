@@ -1,7 +1,7 @@
 {
-    "name": ":Evercode1/:TraitMaker",
+    "name": "Evercode1/TraitMaker",
     "type": "library",
-    "description": ":Artisan Command To Create A Trait Stub",
+    "description": "Artisan Command To Create A Trait Stub",
     "keywords": [
         ":Evercode1",
         ":TraitMaker"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":Bill Keck",
-            "email": ":ikon321@yahoo.com",
-            "homepage": ":https://github.com/evercode1",
+            "name": "Bill Keck",
+            "email": "ikon321@yahoo.com",
+            "homepage": "https://github.com/evercode1",
             "role": "Developer"
         }
     ],
