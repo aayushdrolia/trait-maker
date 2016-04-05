@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":Evercode1\\:TraitMaker\\": "src"
+            "Evercode1\\TraitMaker\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":Evercode1\\:TraitMaker\\": "tests"
+            "Evercode1\\TraitMaker\\": "tests"
         }
     },
     "scripts": {
