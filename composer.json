@@ -4,7 +4,11 @@
     "description": "Artisan Command To Create A Trait Stub",
     "keywords": [
         "evercode1",
-        "traitMaker"
+        "trait-maker",
+        "laravel",
+        "laravel 5.2",
+        "artisan",
+        "laravel traits"
     ],
     "homepage": "https://github.com/evercode1/trait-maker",
     "license": "MIT",
