@@ -81,21 +81,21 @@ If you discover any security related issues, please email :author_email instead 
 
 ## Credits
 
-- [Bill Keck][https://github.com/evercode1]
+- [Bill Keck](https://github.com/evercode1)
 
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/:Evercode1/:TraitMaker.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/evercode1/trait-maker.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/:Evercode1/:TraitMaker/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/:Evercode1/:TraitMaker.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/:Evercode1/:TraitMaker.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/:Evercode1/:TraitMaker.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/evercode1/trait-maker/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/evercode1/trait-maker.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/evercode1/trait-maker.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/evercode1/trait-maker.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/:Evercode1/:TraitMaker
-[link-downloads]: https://packagist.org/packages/:Evercode1/:TraitMaker
+[link-packagist]: https://packagist.org/packages/evercode1/trait-maker
+[link-downloads]: https://packagist.org/packages/evercode1/trait-maker
 [link-author]: https://github.com/evercode1
 
