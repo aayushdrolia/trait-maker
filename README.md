@@ -96,6 +96,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-downloads]: https://img.shields.io/packagist/dt/evercode1/trait-maker.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/evercode1/trait-maker
-[link-downloads]: https://packagist.org/packages/evercode1/trait-maker
+[link-downloads]: https://packagist.org/packages/evercode1/trait-maker/stats
 [link-author]: https://github.com/evercode1
 
